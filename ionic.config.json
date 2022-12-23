@@ -1,0 +1,7 @@
+{
+  "name": "Calisthenics-companion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
